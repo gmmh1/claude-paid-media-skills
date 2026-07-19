@@ -1,0 +1,7 @@
+# Internal planning notes — not part of the public project
+skills creation instruction.md
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*.swp
