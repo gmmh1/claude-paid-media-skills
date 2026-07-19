@@ -2,11 +2,20 @@
 
 All notable changes to this skill library are logged here. Each skill also carries its own "last reviewed" date in its Currency & Scope note — check that for a single skill's own freshness; check here for the shape of the whole library over time.
 
+## [1.4.1] — 2026-07-19
+
+### Changed
+- GitHub topics set on the live repo: `claude`, `claude-skills`, `claude-code`, `ai-agents`, `llm`, `marketing-automation`, `google-ads`, `meta-ads`, `paid-media`, `ppc`, `agency-tools`.
+- `docs/promotion-strategy.md`: checked off the now-complete pre-launch checklist items (LICENSE, topics, repo description, installer testing, git push) — social preview image and profile pin remain open.
+
 ## [1.4.0] — 2026-07-19
+
+### Added
+- Public GitHub repository created: [github.com/gmmh1/claude-paid-media-skills](https://github.com/gmmh1/claude-paid-media-skills) (public, MIT licensed).
 
 ### Changed
 - `README.md` and `docs/README.md`: replaced the placeholder `https://github.com/<your-org>/<this-repo>.git` clone URL with the real repo, `https://github.com/gmmh1/claude-paid-media-skills.git`.
-- First public push to GitHub.
+- Added `.gitignore` excluding the internal `skills creation instruction.md` planning notes from the public repo.
 
 ## [1.3.2] — 2026-07-19
 

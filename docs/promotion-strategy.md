@@ -30,13 +30,13 @@ Four distinct audiences, four different hooks. Don't write one generic announcem
 Promotion sends people to look at the repo within seconds of clicking — if it doesn't look credible on arrival, every other tactic below is wasted effort.
 
 - [x] **Fill in the LICENSE copyright name** — done, held by GMHCO LTD.
-- [ ] **Add GitHub topics/tags**: `claude`, `claude-skills`, `claude-code`, `ai-agents`, `llm`, `marketing-automation`, `google-ads`, `meta-ads`, `paid-media`, `ppc`, `agency-tools`. Topics are how people find repos via GitHub search and topic-browse pages — this is free, high-leverage, and takes five minutes.
-- [ ] **Write a tight repo description** (the one-liner under the repo name on GitHub) — reuse the positioning sentence from Section 1, trimmed to fit.
-- [ ] **Add a social preview image** (GitHub Settings → Social Preview) — a plain card with the repo name and "98 Claude Skills for Paid Media" reads far better in a shared link than GitHub's default blank preview.
-- [ ] **Pin the repo** on your GitHub profile if it's under a personal account.
+- [x] **Add GitHub topics/tags** — done: `claude`, `claude-skills`, `claude-code`, `ai-agents`, `llm`, `marketing-automation`, `google-ads`, `meta-ads`, `paid-media`, `ppc`, `agency-tools`.
+- [x] **Write a tight repo description** — done, set on the GitHub repo itself at creation time.
+- [ ] **Add a social preview image** (GitHub Settings → Social Preview) — a plain card with the repo name and "98 Claude Skills for Paid Media" reads far better in a shared link than GitHub's default blank preview. Still open — needs an actual image asset.
+- [ ] **Pin the repo** on your GitHub profile.
 - [ ] **Do a cold read of the README** as if you're a stranger — does the value land in the first two lines, before anyone has to scroll?
-- [ ] **Test `install.sh` and `install.ps1` on a clean checkout right before launch** — a one-command installer that's broken on launch day is worse than not having one; a broken first command is exactly the kind of thing that turns a curious visitor into a closed tab.
-- [ ] **Confirm `git init` + first commit is done and pushed** — everything below assumes the repo is actually live and clonable.
+- [x] **Test `install.sh` and `install.ps1` on a clean checkout right before launch** — done during development (dry-run + real install, both platforms, full library and single-domain filters).
+- [x] **Confirm `git init` + first commit is done and pushed** — live at [github.com/gmmh1/claude-paid-media-skills](https://github.com/gmmh1/claude-paid-media-skills).
 
 ## 4. Launch sequence
 
